@@ -20,7 +20,7 @@
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://techgaming.netlify.app/Imagens/BannerX (23).jpg">
+  <img align="right" alt="Will-pic" height="150" style="border-radius:50px;"  src="https://techgaming.netlify.app/Imagens/BannerX (23).jpg">
 </div>
   
 ##
