@@ -5,12 +5,12 @@
 - 👯 Procuro colaborar com Desenvolvimento web; 
 - 🤔 Procuro ajuda com programação C# e C++
 - 💬 Pergunte-me sobre Gestão de projetos, Game Design...
-- 📫Como chegar até mim.: willrock.gamedev@gmail.com 
+- 📫Como chegar até mim.: Links das redes sociais logo abaixo...  
 
 <div align="center">
   <a href="https://github.com/willgames87">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willgames87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willgames87&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=willgames87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willgames87&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://techgaming.netlify.app/Imagens/BannerX (23).jpg">
 </div>
   
 ##
